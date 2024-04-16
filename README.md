@@ -1,0 +1,13 @@
+# coding with sheets
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts examples/c.xlsx
+```
